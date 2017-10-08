@@ -16,7 +16,7 @@
       position: absolute;
       top:50%;
       left: 50%;
-      transform: translate(-50%, -50%);/*由于top、left 是以左上角为基准的，因此需要X轴、Y轴各自往它们的方向上拉长宽的一半
+      transform: translate(-50%, -50%);/*由于top、left 是以左上角为基准的，因此需要X轴、Y轴各自往它们的方向上拉长宽的一半*/
     }
     .quarter-circle {
       width: 50px;
