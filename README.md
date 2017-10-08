@@ -1,7 +1,7 @@
 # css
 一些css的读书笔记
-![image](https://github.com/pathoner/css/blob/master/images/1.png)
-怎么实现上述照片的布局呢？
+![image](https://github.com/pathoner/css/blob/master/images/1.png)<br/>
+怎么实现上述照片的布局呢？<br/>
 ``` html
 <!DOCTYPE html>
 <html>
